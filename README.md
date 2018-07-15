@@ -1,2 +1,0 @@
-# newcomb
-# newcombstse.github.io
